@@ -1,0 +1,28 @@
+.Container{
+	width:1000px;
+}
+.Headliner{
+	font:"Courier New";
+
+}
+.Background{
+    position: absolute;
+}
+.Column1{
+	padding-top: 450px;
+	padding-right: 45px;
+	float:left;
+ 	width: 300px;
+}
+
+.Column2{
+	padding-top: 450px;
+	float: left;
+ 	width: 300px;
+}
+.Column3{
+	padding-top: 450px;
+	float: right;
+ 	width: 300px;
+}
+

@@ -1,0 +1,57 @@
+.my-button{   
+	padding: 10px 12px;   
+	border: 1px;   
+	color: #FF6666;     
+	text-decoration: none;   
+	display: inline-block;   
+	border-radius: 5px; 
+	} 
+	.my-button:hover{   
+		margin: 2px 0 0 2px; 
+	}
+body{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+h1{
+	text-align: center;
+	color: #FF6666;
+	padding: 50px;
+	font-size: 35;
+	background-image: url("images/cropped-simple-lights-twitter-background-1024x5461.jpg");
+}
+ul{
+	list-style-type: none;
+	text-align: left;
+}	
+ul li {
+    display: inline-block;
+    padding-right: 40px;
+}
+.Search{
+	padding-top: 19px;
+	margin-left: 40px;
+}
+.Container1{
+	font-size: 20;
+	width:60%;
+	float: left;
+	margin-left: 85px;
+}
+.Container2{
+	padding-top: 50px;
+	float:right;
+	width: 230px;
+}
+.links{
+	position:fixed;
+	width:30px;
+	padding-right: 10px;
+}
+.Footer{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 18;
+
+}
+

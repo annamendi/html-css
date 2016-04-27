@@ -1,0 +1,46 @@
+.Container{
+	width: 1200px;
+}
+
+
+.Cities{
+    float: left;
+    width: 500px;
+}
+.Australia{
+	padding-top: 50px;
+	padding-left: 125px;
+	color:blue;
+
+}
+
+.Thailand{
+	padding-top: 100px;
+	color:orange;
+	padding-left: 125px;
+
+}
+.Japan{
+	padding-top: 100px;
+	color:red;
+	padding-left: 125px;	
+}
+.Uruguay{
+	padding-top: 100px;
+	color:#00FF00;
+	padding-left: 125px;
+}	
+.links{
+	position: fixed;
+	top:100px;
+	padding-left: 20px;
+
+}
+.Images{
+	float: right;
+	width: 650px;
+}
+h1{
+	padding-left: 100px;
+	color: #00FFFF;
+}
