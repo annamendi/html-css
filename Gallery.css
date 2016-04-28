@@ -1,0 +1,34 @@
+h1{
+	text-align: center;
+	color: #FF6666;
+	padding: 50px;
+	font-size: 35;
+	background-image: url("images/cropped-simple-lights-twitter-background-1024x5461.jpg");
+}
+.Image1{
+	float:left;
+	padding-right: 20px;
+
+}
+.Image2{
+	float:left;
+	padding-right: 20px;
+}
+.Image3{
+	float:left;
+	padding-right: 20px;
+}
+.Image4{
+	float:left;
+	padding-right: 20px;
+}
+.Image5{
+	float:left;
+	padding-right: 20px;
+	padding-top: 20px;
+}
+.Image6{
+	float:left;
+	padding-right: 20px;
+	padding-top: 20px;
+}
