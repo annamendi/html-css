@@ -19,6 +19,7 @@ h1{
 	padding: 50px;
 	font-size: 35;
 	background-image: url("images/cropped-simple-lights-twitter-background-1024x5461.jpg");
+	content: cover;
 }
 ul{
 	list-style-type: none;
